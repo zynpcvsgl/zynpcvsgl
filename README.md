@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a 3rd year computer engineering student.I really enjoy learning programming!
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-* 🌍  I'm based in türkiye
+* 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [zynpcvsgl\_@hotmail.com](mailto:zynpcvsgl_@hotmail.com)
 * 🧠  I'm learning Unity
 
