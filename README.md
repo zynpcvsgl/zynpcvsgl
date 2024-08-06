@@ -81,10 +81,16 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif"  />
-</div>
+<br clear="both">
+
+<img align="right" height="200" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif"  />
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZYNPCVSGL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZYNPCVSGL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
