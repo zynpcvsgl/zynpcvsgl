@@ -93,8 +93,9 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zynpcvsgl&show_icons=true&locale=en&layout=compact" alt="zynpcvsgl" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZYNPCVSGL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZYNPCVSGL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zynpcvsgl&show_icons=true&locale=en" alt="zynpcvsgl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zynpcvsgl&" alt="zynpcvsgl" /></p>
+###
