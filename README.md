@@ -6,14 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"  />
-</div>
-
-###
-
 <h2 align="left">Connect with me:</h2>
 
 ###
@@ -96,6 +88,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZYNPCVSGL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZYNPCVSGL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="100" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"  />
 </div>
 
 ###
