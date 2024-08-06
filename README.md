@@ -87,8 +87,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZYNPCVSGL/ZYNPCVSGL/output/snake.svg" alt="Snake animation" />
-
-###
