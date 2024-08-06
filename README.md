@@ -1,8 +1,13 @@
-<h1 align="left">Hi , I'm Zeynep ÇAVUŞOĞLU</h1>
+<h1 align="center">Hi , I'm Zeynep ÇAVUŞOĞLU</h1>
+<h3 align="center">I am a 4 th year computer engineering student.I really enjoy learning programming!</h3>
 
-###
+- 🌱 I’m currently learning **Unity**
 
-<p align="left">I am a 4 th year computer engineering student.I really enjoy learning programming!<br>🌱 I’m currently learning Unity<br><br>📫 How to contact zynpcvsgl_@hotmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ?usp=drive_link<br><br>Connect with me:</p>
+- 📫 How to contact **zynpcvsgl_@hotmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ?usp=drive_link](https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ?usp=drive_link)
+  
+  <br>Connect with me:</p>
 
 ###
 
