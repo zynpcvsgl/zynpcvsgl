@@ -9,7 +9,40 @@ I am a 4 th year computer engineering student.I really enjoy learning programmin
 - 📫 How to contact **zynpcvsgl_@hotmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ?usp=drive_link](https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ?usp=drive_link)
+name: Generate snake animation
 
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
+
+
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zynpcvsgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zynpcvsgl" height="30" width="40" /></a>
