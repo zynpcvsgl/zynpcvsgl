@@ -2,8 +2,9 @@
 
 ###
 
-<h4 align="left">I am a 4 th year computer engineering student.I really enjoy learning programming!<br>🌱 I’m currently learning Unity<br><br>📫 How to contact zynpcvsgl_@hotmail.com<br><br>
+<h5 align="left">I am a 4 th year computer engineering student.I really enjoy learning programming!<br>🌱 I’m currently learning Unity<br><br>📫 How to contact zynpcvsgl_@hotmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ?usp=drive_link</h5>
 
+###
 
 <h2 align="left">Connect with me:</h2>
 
@@ -80,6 +81,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZYNPCVSGL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
