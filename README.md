@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I am a 4 th year computer engineering student.I really enjoy learning programming!<br>🌱 I’m currently learning Unity<br><br><br>📫 How to contact zynpcvsgl_@hotmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ</h5>
+<h5 align="left">I'm a 4th-year Computer Engineering student. I really enjoy learning programming and expanding my skill set!<br>🌱 I’m currently learning Unity.<br><br>📫 How to contact me: <a href="mailto:zynpcvsgl_@hotmail.com">zynpcvsgl_@hotmail.com</a><br><br>📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ" target="_blank">Google Drive</a></h5>
 
 ###
 
