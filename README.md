@@ -98,15 +98,33 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZYNPCVSGL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=
 </div>
 
 ###
+
+ 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZYNPCVSGL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYNPCVSGL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+
+<br/>  
+
+<br />
 
 <br clear="both">
 
 <div align="center">
   <img height="300" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"  />
 </div>
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zynpcvsgl&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 
 ###
