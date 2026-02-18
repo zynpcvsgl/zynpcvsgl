@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I am a Computer Engineer. I really enjoy learning programming and expanding my skill set!<br>🌱 I’m currently learning Unity.<br><br>📫 How to contact me: <a href="mailto:zynpcvsgl_@hotmail.com">zynpcvsgl_@hotmail.com</a><br><br>📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ" target="_blank">Google Drive</a></h5>
+<h5 align="left">I am a Computer Engineer. I really enjoy learning programming and expanding my skill set!<br>📫 How to contact me: <a href="mailto:zynpcvsgl_@hotmail.com">zynpcvsgl_@hotmail.com</a><br><br>📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1oazWljWSJ0rGU8wx6IRdU9kLO-0bnaSZ" target="_blank">Google Drive</a></h5>
 
 ###
 
@@ -106,7 +106,6 @@
 
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYNPCVSGL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   
 
 <br/>  
